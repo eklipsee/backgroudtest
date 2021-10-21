@@ -5,7 +5,7 @@ module {
     public type Desc = Text;
     public type Balance = Nat32;
     public type UserRating = Nat32;
-    public type ID = Text; // change this to principal later! it will get ic identity principial id!
+    public type ID = Text; // change this to principal later! 
 
 public type  Entry = {
         userName : Name;

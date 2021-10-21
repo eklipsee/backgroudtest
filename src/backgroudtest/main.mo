@@ -11,7 +11,7 @@ actor main {
     public type Name = Types.Name;
     
 
-  Entry.userName
+
     // essay info when submit button gets hit, for calcutale and work with later in profiles and balances etc
     type essaySubmitInfo = {
         userName : Text;
